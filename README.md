@@ -1,5 +1,3 @@
-## Tema 1b APD - Alexandra Bulgaru 331CD
-
 ### Observatii teste:
 - Cresterea numarului de fire poate sa imbunatateasca performanta pana la un moment dat, dar apoi pot sa apara probleme
 de supraincarcare a sistemului. De asemenea, datele de dimensiuni mari maresc timpul de procesare si consuma destul de
